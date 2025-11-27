@@ -1,1 +1,1 @@
-# eteritype
+# Eteritype Type Speed Checker
